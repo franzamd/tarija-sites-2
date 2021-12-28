@@ -1,0 +1,47 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-native-community/masked-view": "0.1.6",
+    "@react-navigation/bottom-tabs": "~5.2.6",
+    "@react-navigation/native": "~5.1.5",
+    "@react-navigation/stack": "~5.2.10",
+    "base-64": "~0.1.0",
+    "expo": "^43.0.0",
+    "expo-facebook": "~12.0.3",
+    "expo-google-app-auth": "~9.0.0",
+    "expo-image-picker": "~11.0.3",
+    "expo-location": "~13.0.4",
+    "expo-permissions": "~13.0.3",
+    "firebase": "~7.9.0",
+    "firesql": "~2.0.2",
+    "lodash": "^4.17.15",
+    "random-uuid-v4": "~0.0.9",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "0.64.3",
+    "react-native-easy-toast": "~1.2.0",
+    "react-native-elements": "~1.2.7",
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-keyboard-aware-scroll-view": "^0.9.5",
+    "react-native-maps": "0.28.1",
+    "react-native-open-maps": "~0.3.5",
+    "react-native-reanimated": "~2.2.0",
+    "react-native-safe-area-context": "3.3.2",
+    "react-native-screens": "~3.8.0",
+    "react-native-snap-carousel": "~3.9.0",
+    "react-native-web": "0.17.1",
+    "use-debounce": "^3.4.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "babel-preset-expo": "8.5.1"
+  },
+  "private": true
+}
